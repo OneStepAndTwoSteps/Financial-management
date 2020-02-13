@@ -130,12 +130,13 @@ __:mega:一句话总结：__ 提升财富要靠工资和非工资收入两条腿
     :mega: 一句话总结： 中产的【财务安全】来自工资收入和非工资收入的双管齐下，没有充足的非工资收入的中产家庭，谈不上财务真正安全。
 
 :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse:
+:carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: 
 
 ## 2、从1万到100万的理财法则
 
 ### 一、复利 
 
-*    __复利的公式是：__ 最终收益=本金*（1+收益率）^时间 - [复利计算器](www.yaocaiwuziyou.com/calculator.html)
+*    __复利的公式是：__ 最终收益=本金*（1+收益率）^时间 :point_right:  [复利计算器](www.yaocaiwuziyou.com/calculator.html)
 
         如：本金为 10000 年收益率为 15% ，投资时间为 5 年，那么收益 = 10000*(1+0.15)^5 = 20113.572
 
@@ -157,11 +158,9 @@ __:mega:一句话总结：__ 提升财富要靠工资和非工资收入两条腿
         小白从25岁开始投资，一直投入本金直到60岁
 
         我们来看一下，当他们到60岁的各自都有多少钱呢？
-
     <div align=center><img width="500" height="400" src="https://raw.githubusercontent.com/OneStepAndTwoSteps/Financial-management/master/static/1.jpg"/></div>
 
-
-     __总结：__ 60岁的时候，小黑有831万，小白有651万，即使小白的投入本金是小黑的3.5倍，最终也还是没有追上小黑。并且，我们可以看到，在人生的各个阶段，小白始终落后于小黑，仅仅就是因为相差了5年。__这就是复利的威力__
+__:mega:总结：__ 60岁的时候，小黑有831万，小白有651万，即使小白的投入本金是小黑的3.5倍，最终也还是没有追上小黑。并且，我们可以看到，在人生的各个阶段，小白始终落后于小黑，仅仅就是因为相差了5年。__这就是复利的威力__
 
 
 *    __3、收益率：__ 我们在本金不多、时间不占优势的情况下，提高自己的收益率，而这个收益率只是表象，支撑内在增长的是什么呢？就是理财能力，
@@ -178,16 +177,15 @@ __:mega: 一句话总结：【时间无法改变，越早开始越好；本金�
 
 *   __1、为什么说复利三要素中最容易掌控的是收益率？__
     
-        :mega:一句话总结：【时间无法改变，越早开始越好；本金依赖生钱资产；收益率源于理财能力，理财能力才是决定复利终值的关键】。    
+    :mega:一句话总结：【时间无法改变，越早开始越好；本金依赖生钱资产；收益率源于理财能力，理财能力才是决定复利终值的关键】。    
 
 *   __2、为什么说投资自己的大脑、学会理财技能也是中产升级之法？__
     
-        :mega:一句话总结：心疼投资大脑的钱，一直什么都不懂，不是被通货膨胀割韭菜，就是被投资市场割韭菜，一直穷下去。
-        
-        反之学习他人成功的方法，变成自己的技能，是最快的脱贫、升级之法。   
+    :mega:一句话总结：心疼投资大脑的钱，一直什么都不懂，不是被通货膨胀割韭菜，就是被投资市场割韭菜，一直穷下去。反之学习他人成功的方法，变成自己的技能，是最快的脱贫、升级之法。   
 
 
 :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse:
+:carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: :carousel_horse: 
 
 
 ## 财务自由的三大核心工具
