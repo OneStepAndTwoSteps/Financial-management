@@ -1,4 +1,32 @@
 # :chart_with_upwards_trend: Financial-management
 
 
-:moneybag: + :chart_with_upwards_trend: + :clock9: = :house_with_garden: :car: :bridge_at_night:
+## :moneybag: + :chart_with_upwards_trend: + :clock9: = :house_with_garden: :car: :bridge_at_night:
+
+### 书单推荐
+
+    《小狗钱钱》系列
+    《富爸爸穷爸爸》系列
+    《投资最重要的事》
+    《大败局》
+    《激荡四十年》
+    《投资稳赚：向世界最大基金创始人学稳赚不赔的常识》
+    《共同基金常识》
+    《巴菲特传》
+    《巴菲特的护城河》
+    《巴菲特致股东的信》
+    《彼得林奇投资经典》
+    《解读基金---我的投资观与实践》
+    《战胜华尔街》
+    《门口的野蛮人》
+    《财务报表分析与股票估值》
+    《手把手教你读财报》
+    《薛兆丰经济学讲义》
+    《大概率思维》
+    《陈志武金融通识课》
+    《财务自由之路》系列
+    《指数基金投资指南》
+    《有钱人和你想的不一样》
+    《聪明的投资者》
+    《大江东去》
+    《艰难的制造》
